@@ -5,6 +5,6 @@
 
 #RewriteRule ^.*$ - [NC,L]
 #RewriteRule ^.*$ index.php [NC,L]
-
+#tesrt
 SetEnv APPLICATION_ENV "production"
 
